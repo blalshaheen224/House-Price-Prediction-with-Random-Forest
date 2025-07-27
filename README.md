@@ -61,6 +61,7 @@ Prints:
   - RMSE (Root Mean Squared Error)
   - R² Score
 - Plots a scatterplot: **Actual vs Predicted Sale Prices**
+![evaluate_model](images/evaluate_model.png)
 
 ### `plot_top_features()`
 - Plots a bar chart of 8 pre-selected most important features (based on domain knowledge or testing)
@@ -113,10 +114,10 @@ It will:
 
 > Scatterplot comparing predicted values to actual house sale prices.
 
-![Actual vs Predicted](path/to/actual_vs_predicted.png)
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
 ### Top 8 Important Features
 
 > Bar plot showing the 8 features with highest importance.
 
-![Top Features](path/to/top_features.png)
+![Top Features](images/top_features.png)
