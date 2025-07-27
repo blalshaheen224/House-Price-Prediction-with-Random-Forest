@@ -60,8 +60,8 @@ Prints:
   - MSE (Mean Squared Error)
   - RMSE (Root Mean Squared Error)
   - R² Score
-- Plots a scatterplot: **Actual vs Predicted Sale Prices**
 - ![evaluate_model](images/evaluate_model.PNG)
+- Plots a scatterplot: **Actual vs Predicted Sale Prices**
 
 ## `plot_top_features()`
 - Plots a bar chart of 8 pre-selected most important features (based on domain knowledge or testing)
