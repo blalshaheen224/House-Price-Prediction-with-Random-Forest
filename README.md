@@ -114,7 +114,7 @@ It will:
 
 > Scatterplot comparing predicted values to actual house sale prices.
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](images/actual_vs_predicted.png.PNG)
 
 ### Top 8 Important Features
 
