@@ -61,11 +61,9 @@ Prints:
   - RMSE (Root Mean Squared Error)
   - R² Score
 - Plots a scatterplot: **Actual vs Predicted Sale Prices**
-![evaluate_model](images/evaluate_model.PNG)
+- ![evaluate_model](images/evaluate_model.PNG)
 
-
-
-### `plot_top_features()`
+## `plot_top_features()`
 - Plots a bar chart of 8 pre-selected most important features (based on domain knowledge or testing)
 
 ---
