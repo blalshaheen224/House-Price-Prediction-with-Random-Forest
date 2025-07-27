@@ -63,18 +63,14 @@ Prints:
 - Plots a scatterplot: **Actual vs Predicted Sale Prices**
 ![evaluate_model](images/evaluate_model.PNG)
 
+
+
 ### `plot_top_features()`
 - Plots a bar chart of 8 pre-selected most important features (based on domain knowledge or testing)
 
 ---
 
-## ✅ Example Output
 
-```text
-Mean Absolute Error (MAE): 34929.48  
-Mean Squared Error (MSE): 2.56e+09  
-Root Mean Squared Error (RMSE): 50613.68  
-R² Score: 0.82
 ```
 
 ---
